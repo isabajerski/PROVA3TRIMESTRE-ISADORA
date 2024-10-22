@@ -1,0 +1,10 @@
+body {
+    background-color: crimson;
+    margin: 0px;
+}
+p{
+    color: color-mix(in hsl shorter hue, color percentage, color percentage);
+}
+.sobrenome {
+    color: blue;
+}
