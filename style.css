@@ -12,6 +12,7 @@ header {
 }
 h1 {
     color: color-mix(in hsl shorter hue, color percentage, color percentage);
+    font-style: italic;
 }
 .sobrenome {
     color: blue;
